@@ -1,0 +1,15 @@
+# Build & binary artifacts
+build/
+.pio/
+*.bin
+*.elf
+*.map
+*.hex
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.bak
+*.before-*
